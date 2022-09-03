@@ -1,0 +1,13 @@
+{
+    "name": "CompanyAgents",
+    "alias": "companyagents",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CompanyAgents\\Providers\\CompanyAgentsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

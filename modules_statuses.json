@@ -1,0 +1,15 @@
+{
+    "RecieptionModule": true,
+    "RegistraModule": true,
+    "PremedicalModule": true,
+    "PassportModule": true,
+    "CvModule": true,
+    "TrainingModule": true,
+    "ClearanceModule": true,
+    "VcsPassportModule": true,
+    "OtherReports": true,
+    "CompanyAgents": true,
+    "JobOrder": true,
+    "AbroadCompany": true,
+    "DomesticWorkerOverallStatus": true
+}

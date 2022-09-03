@@ -1,0 +1,13 @@
+{
+    "name": "RegistraModule",
+    "alias": "registramodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RegistraModule\\Providers\\RegistraModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

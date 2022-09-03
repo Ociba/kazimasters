@@ -1,0 +1,13 @@
+{
+    "name": "TrainingModule",
+    "alias": "trainingmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TrainingModule\\Providers\\TrainingModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

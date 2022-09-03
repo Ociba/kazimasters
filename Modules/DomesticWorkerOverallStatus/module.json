@@ -1,0 +1,13 @@
+{
+    "name": "DomesticWorkerOverallStatus",
+    "alias": "domesticworkeroverallstatus",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DomesticWorkerOverallStatus\\Providers\\DomesticWorkerOverallStatusServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

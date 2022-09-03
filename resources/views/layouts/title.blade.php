@@ -1,0 +1,1 @@
+<title>Kazi Masters Limited- {{ request()->route()->getName() }}</title>

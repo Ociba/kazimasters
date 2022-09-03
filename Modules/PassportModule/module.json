@@ -1,0 +1,13 @@
+{
+    "name": "PassportModule",
+    "alias": "passportmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PassportModule\\Providers\\PassportModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

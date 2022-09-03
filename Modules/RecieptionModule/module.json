@@ -1,0 +1,13 @@
+{
+    "name": "RecieptionModule",
+    "alias": "recieptionmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RecieptionModule\\Providers\\RecieptionModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

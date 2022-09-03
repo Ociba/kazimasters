@@ -1,0 +1,13 @@
+{
+    "name": "AbroadCompany",
+    "alias": "abroadcompany",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AbroadCompany\\Providers\\AbroadCompanyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "PremedicalModule",
+    "alias": "premedicalmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PremedicalModule\\Providers\\PremedicalModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

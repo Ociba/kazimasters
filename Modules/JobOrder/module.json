@@ -1,0 +1,13 @@
+{
+    "name": "JobOrder",
+    "alias": "joborder",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\JobOrder\\Providers\\JobOrderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

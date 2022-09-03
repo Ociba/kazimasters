@@ -1,0 +1,13 @@
+{
+    "name": "ClearanceModule",
+    "alias": "clearancemodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ClearanceModule\\Providers\\ClearanceModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
